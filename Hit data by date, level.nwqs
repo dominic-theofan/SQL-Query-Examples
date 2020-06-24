@@ -1,6 +1,0 @@
-<QuerySet>
-  <Query IsView="False" IsSP="False">
-    <File>abcd.sql</File>
-    <Name>Hit data by date, level</Name>
-  </Query>
-</QuerySet>
